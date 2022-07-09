@@ -82,17 +82,6 @@ class BankAccount {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
 class TestHuman {
 
     public static void main(String[] args) {

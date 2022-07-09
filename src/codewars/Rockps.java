@@ -1,6 +1,7 @@
 package codewars;
 
 public class Rockps {
+
     public static String rps(String p1, String p2) {
         String scissors = "scissors";
         String rock = "rock";
